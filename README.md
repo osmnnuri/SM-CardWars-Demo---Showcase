@@ -19,3 +19,6 @@ Uygulama kapsamında Android Studio ve farklı materyaller kullanılmıştır;
 - Navigation 
 - AI Destekli Programlama 
 - Nesne Tabanlı Programlama 
+
+# KODLAR 
+Proje kodları private bir repo'da tutulmaktadır. Gerekli görüldüğü durumlarda isteyenlerle paylaşılabilir. Projenin güncel (v1.0) görsellerini kişisel portfolyo sayfam üzerinden görüntüleyebilirsiniz. 
